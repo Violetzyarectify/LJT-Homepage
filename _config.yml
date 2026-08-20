@@ -13,7 +13,6 @@ teaser: # filename of teaser fallback image
 # Site Author
 author:
   name: "Junteng Liu"
-  avatar: "profile.png"
   bio: "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
   location: "Hong Kong, China"
   email: "jliugi@connect.ust.hk"
@@ -132,7 +131,6 @@ compress_html:
 # Publication Category
 publication_category:
   - conference
-  - journal
   - preprint
 
 # Footer
